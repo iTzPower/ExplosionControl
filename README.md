@@ -6,7 +6,7 @@
 <h2 align=center>Download</h2>
 <p align="center">
   <a href="https://github.com/iTzPower/ExplosionControl/releases/latest/download/ExplosionControl.jar">
-    <img src="https://img.icons8.com/fluency/48/000000/download.png" alt="Download Latest Release"/>
+    <img src="[https://img.icons8.com/fluency/48/000000/download.png](https://img.shields.io/github/downloads/iTzPower/ExplosionControl/total?color=blue&label=Download)" alt="Download Latest Release"/>
   </a>
 </p>
 
