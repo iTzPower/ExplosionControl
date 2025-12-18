@@ -3,9 +3,9 @@
 
 <p align=center>Control of the Block at the Moment of Explosion</p>
 
-<h2 align=center>Download</h2>
+
 <p align="center">
-  <a href="https://github.com/iTzPower/ExplosionControl/releases/latest/download/ExplosionControl.jar">
+  <a href="https://github.com/iTzPower/ExplosionControl/releases/download/Mc-Plugins/ExplosionControl-1.6.7.jar">
     <img src="https://img.shields.io/github/downloads/iTzPower/ExplosionControl/total?color=blue&label=Download" alt="Download Latest Release"/>
   </a>
 </p>
