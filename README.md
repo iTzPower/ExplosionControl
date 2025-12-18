@@ -3,6 +3,13 @@
 
 <p align=center>Control of the Block at the Moment of Explosion</p>
 
+<h2 align=center>Download</h2>
+<p align="center">
+  <a href="https://github.com/iTzPower/ExplosionControl/releases/latest/download/ExplosionControl.jar">
+    <img src="assets/download-button.svg" alt="Download Latest Release"/>
+  </a>
+</p>
+
 
 <h2 align=center>Features</h2>
 
