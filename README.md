@@ -4,11 +4,6 @@
 <p align=center>Control of the Block at the Moment of Explosion</p>
 
 
-<h2 align=center>Download</h2>
-[<img src="https://img.icons8.com/fluency/48/000000/download.png" width="40"/>](https://github.com/iTzPower/ExplosionControl/releases/download/Mc-Plugins/ExplosionControl-1.6.7.jar)
-
-
-
 <h2 align=center>Features</h2>
 
 
