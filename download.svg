@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="60">
+  <rect x="0" y="0" width="220" height="60" rx="12" fill="#0969da"></rect>
+  <text x="110" y="38" font-size="22" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif">
+    Download
+  </text>
+</svg>
