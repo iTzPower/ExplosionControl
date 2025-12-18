@@ -5,7 +5,7 @@
 
 
 <h2 align=center>Download</h2>
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iTzPower/ExplosionControl/releases/download/Mc-Plugins/ExplosionControl-1.6.7.jar)
+[![Download](https://img.icons8.com/fluency/48/000000/download.png)](https://github.com/iTzPower/ExplosionControl/releases/download/Mc-Plugins/ExplosionControl-1.6.7.jar)
 
 
 <h2 align=center>Features</h2>
