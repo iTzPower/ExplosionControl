@@ -1,0 +1,11 @@
+# --------------------------------------------------
+#
+#        E X P L O S I O N - C O N T R O L
+#
+# ---------------------------------------------------
+explosioncontrol:
+# use whitelist or blacklist
+  type: whitelist
+  blocks: # minecraft blocks (ALL UPPER CASE)
+    - STONE
+    - GRASS_BLOCK

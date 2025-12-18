@@ -1,0 +1,12 @@
+name: ExplosionControl
+main: iTzPower.explosionControl.ExplosionControl
+version: 1.6.7
+author: iTzPower
+website: https://iTzPower.iR
+api-version: 1.21
+
+commands:
+  explosioncontrol:
+    description: Control explosion settings
+    usage: /explosioncontrol <add|remove|mode|reload>
+    aliases: [ec]
